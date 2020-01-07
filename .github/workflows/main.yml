@@ -13,5 +13,5 @@ jobs:
       run: echo Hello, world!
     - name: Run a multi-line script
       run: |
-        echo two things need to be tested
-        echo this is something else, word.
+        echo two words.
+        echo this is a test.
