@@ -15,3 +15,4 @@ jobs:
       run: |
         echo two words.
         echo this is a test.
+        echo other things.
